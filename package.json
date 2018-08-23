@@ -1,0 +1,16 @@
+{
+  "name": "yup-locale-de",
+  "version": "0.26.2",
+  "description": "German translation for default yup messages",
+  "main": "localeDE.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skress/yup-locale-de.git"
+  },
+  "author": "Sören Kress",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/skress/yup-locale-de/issues"
+  },
+  "homepage": "https://github.com/skress/yup-locale-de#readme"
+}
